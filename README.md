@@ -1,6 +1,6 @@
 # openweathermap_app
 
-A new Flutter project.
+TH3 - 2224801030280 - LuuTanLoi
 
 ## Getting Started
 
