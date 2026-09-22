@@ -2,6 +2,8 @@
 
 TH3 - 2224801030280 - LuuTanLoi
 
+Bạn hãy tạo API và copy vào API.md trong chương trình nhé!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
