@@ -2,7 +2,7 @@
 
 TH3 - 2224801030280 - LuuTanLoi
 
-Bạn hãy tạo API và copy vào API.md trong chương trình nhé!
+Bạn hãy tạo API trong [openweathermap.org](https://home.openweathermap.org/api_keys) và copy vào API.md trong chương trình nhé!
 
 ## Getting Started
 
